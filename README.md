@@ -1,2 +1,2 @@
-# Sierpinski-Triangle-Python
-Sierpinski's Triangle created using Python - dumblole
+# Sierpinski's Triangle Python
+Sierpinski's Triangle created using Python 
