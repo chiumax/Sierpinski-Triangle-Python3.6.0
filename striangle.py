@@ -1,7 +1,5 @@
 '''
-Sierpinski's Triangle by Max Chiu
-Foundations of Computer Science
-Mr. Gordon | Block A
+Sierpinski's Triangle by dumblole
 
 This is the function that actually draws Sierpinski's Triangle.
 Imported to main.py

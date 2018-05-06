@@ -1,7 +1,5 @@
 '''
-Sierpinski's Triangle by Max Chiu
-Foundations of Computer Science
-Mr. Gordon | Block A
+Sierpinski's Triangle by dumblole
 
 This is a recursive program that draws Sierpinski's triangle based off of
 a couple of factors:
