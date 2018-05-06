@@ -1,0 +1,2 @@
+# Ignores the pycache folder which contains .pyc files. 
+__pycache__/

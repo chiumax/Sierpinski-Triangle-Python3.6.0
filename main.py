@@ -63,21 +63,13 @@ if __name__ == "__main__":
         
     #I'm doing this to check if the user input was valid, also because rgb fill changes color after every triangle so it will be sent into the triangle function 
     if color in color_options:
-        deg-=1
         #MOVE turtle pen to the left by half of the length and down by length/4 * sqrt3
         #This basically centers the triangle
-
-        print(striangle.pen.xcor(),striangle.pen.ycor())
+        
         striangle.pen.up()
-        print(striangle.pen.xcor(),striangle.pen.ycor())
         striangle.pen.goto(striangle.pen.xcor()-length/2,striangle.pen.ycor()-length/4*3**(1/2))
-        print(striangle.pen.xcor(),striangle.pen.ycor())
         striangle.pen.down()
         striangle.triangle(deg,length,color)
-        striangle.pen.up()
-        striangle.pen.goto(-200,-length/4*3**(1/2)*1.25)
-        striangle.pen.down()
-        striangle.pen.write("Sierpinski's Triangle By: Max Chiu | Degree #"+str(deg+1), font=("Arial", 16, "bold"))
         striangle.wn.exitonclick()
     else:
         err_mess()
