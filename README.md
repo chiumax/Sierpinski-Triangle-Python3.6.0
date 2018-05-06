@@ -1,4 +1,4 @@
-# Sierpinski's Triangle Python
+# Sierpinski's Triangle Python 🔺
 Sierpinski's Triangle created recursively using Python by dumblole.
 
 When using, run the main.py file for better user experience.
