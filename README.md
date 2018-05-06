@@ -4,7 +4,7 @@ Sierpinski's Triangle created recursively using Python by dumblole.
 When using, run the main.py file for better user experience.
 Otherwise, just run striangle.py using this syntax:
 
-`triangle(degree,length,color)`
+`triangle(degree,length,'color')`
 
 Take note that running striangle.py will not center the triangle and will not
 ask the user for inputs.
