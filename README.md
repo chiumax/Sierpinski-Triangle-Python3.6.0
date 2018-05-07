@@ -1,6 +1,8 @@
 # Sierpinski's Triangle Python 🔺
 Sierpinski's Triangle created recursively using Python by dumblole.
 
+Uses recursion and the turtle module.
+
 When using, run the main.py file for better user experience.
 Otherwise, just run striangle.py using this syntax:
 
