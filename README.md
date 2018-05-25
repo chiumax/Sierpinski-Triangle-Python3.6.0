@@ -1,5 +1,5 @@
-# Sierpinski's Triangle Python 🔺
-Sierpinski's Triangle created recursively using Python by dumblole.
+# Sierpinski's Triangle Python 3.6.0 🔺
+Sierpinski's Triangle created recursively using Python 3.6.0 by dumblole.
 
 Uses recursion and the turtle module.
 
